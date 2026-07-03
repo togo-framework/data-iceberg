@@ -1,0 +1,8 @@
+name: data-iceberg
+description: Data backend — query Apache Iceberg via DuckDB.
+priority: 51
+backend:
+  package: github.com/togo-framework/data-iceberg
+migrations: []
+frontend: { dir: "" }
+commands: []
